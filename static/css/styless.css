@@ -1,0 +1,64 @@
+body
+{
+	
+	color: #181818;
+	font-family: 'lucida sans';
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(0, 251, 118);
+}
+
+/* changer la couleur des lien de dropdown */
+.dropdown-menu a:hover {background-color: #ddd;}
+.navbar .nav-item:hover {background-color: #3e8e41;}
+
+/*
+.navbar .nav-item.active {
+  background-color: #3e8e41;
+}*/
+
+/* montrer le menu quand on survol */
+.dropdown:hover .dropdown-menu {display: block;}
+
+/* changer le bg-color du bouton dropdown lorsque le contenu est montré */
+.dropdown:hover .dropdown-toggle {background-color: #3e8e41;}
+
+
+header h5{
+	font-size: 1.8em;
+}
+
+.dropdown-menu{
+	max-height: 300px;
+	overflow-y: auto;
+}
+.planAriè{
+    border-radius: 10px;
+	box-shadow: 4px 4px 4px rgb(0, 0, 0);
+	background: url("foot.jpg") no-repeat;
+	position: relative;
+	margin-bottom: 25px;
+}
+
+.cont2{
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.container-fluid{
+	border-radius: 10px;
+	box-shadow: 4px 4px 4px rgb(251, 251, 251);
+}
+
+.cardind{
+	
+    border: 1px solid blue;
+    box-shadow: 4px 4px 4px 4px #1c1a19;
+    text-align: justify;
+    padding: 10px;
+}
+
+.propo{
+	text-shadow: 1px 1px 15px rgb(7, 57, 188);
+}
