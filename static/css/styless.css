@@ -30,6 +30,7 @@ header h5{
 	font-size: 1.8em;
 }
 
+/* bar de defilement auto */
 .dropdown-menu{
 	max-height: 300px;
 	overflow-y: auto;
