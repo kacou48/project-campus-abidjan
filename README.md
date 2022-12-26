@@ -1,1 +1,3 @@
-# projet-campus-abidjan
+# project-campus-abidjan
+A social network,
+It looks like a facebook group. A web application where students can publish posts, campus news, create profiles...
